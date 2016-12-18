@@ -1,0 +1,1 @@
+promo.dataSwitch=on
